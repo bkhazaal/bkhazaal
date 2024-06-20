@@ -1,6 +1,6 @@
 - Yo, I’m Ben Khazaal (@bkhazaal)
 - Arizona local
-- Unashamed child of Christ
+- Unashamed child of God
 - I like music, fitness, and code
 - I wanna innovate and start a business 
 - That's really all...
