@@ -1,6 +1,2 @@
-- Yo, I’m Ben Khazaal (@bkhazaal)
-- Arizona local
-- Unashamed child of God
-- I like music, fitness, and code
-- I wanna innovate and start a business 
-- That's really all...
+
+Detail-oriented software development major at Grand Canyon University, with a passion for web development and SEO. Recognized for being goal-driven, hard-working, passionate about learning new concepts, focused on the task at hand, working well in a large team, able to learn new concepts quickly, and using critical thinking to solve problems. Knowledgeable and have professional work experience in website development & design, database models, and software architecture. Maintained a track record of successful professional website projects.
